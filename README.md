@@ -14,7 +14,7 @@ Developer → GitHub → Jenkins CI/CD → Docker → DockerHub → Kubernetes (
 
 ## Tools Used
 
-- AWS (EC2 Free Tier)
+- AWS (EC2)
 - Terraform
 - Docker
 - Kubernetes (K3s)
