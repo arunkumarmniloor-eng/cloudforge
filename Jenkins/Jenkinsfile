@@ -6,7 +6,7 @@ pipeline {
 
  stage('Clone Repo') {
  steps {
- git 'https://github.com/username/cloudforge-devops-platform'
+ git 'https://github.com/arunkumarmniloor-eng/cloudforge.git'
  }
  }
 
